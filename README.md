@@ -1,8 +1,8 @@
 # Viktor Bateykin
 
-### .NET Developer | 8+ Years of Experience
+### Senior Full-Stack .NET/Angular engineer |10+ years experience
 
-🔹 **Timezone**: GMT+3  
+🔹 **Timezone**: GMT+5  
 📫 **Email**: [vdmbat@gmail.com](mailto:vdmbat@gmail.com)  
 💬 **Telegram**: [@vdmbat](https://t.me/vdmbat)
 
