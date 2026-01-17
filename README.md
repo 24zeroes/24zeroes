@@ -1,18 +1,21 @@
 # Viktor Bateykin
 
-### Senior Full-Stack .NET/Angular engineer |10+ years experience
+### Senior Full-Stack .NET/Angular engineer | 10+ years experience
 
 🔹 **Timezone**: GMT+5  
 📫 **Email**: [vdmbat@gmail.com](mailto:vdmbat@gmail.com)  
 💬 **Telegram**: [@vdmbat](https://t.me/vdmbat)
 
+C# | ASP.NET Core | EF Core | Angular | TypeScript | SQL (PostgreSQL,MsSQL) | REST | Docker | Kubernetes | Azure
+
 ---
 
 ## 👨‍💻 About Me
 
-I am a .NET developer with 8+ years of commercial experience, worked in diverse teams ranging from 2 to 40 members, both remotely and on-site. I’ve also excelled as a team lead for 2+ years, managing development cycles from requirements gathering to establishing fully automated release processes with comprehensive test coverage, analytics, and CI/CD integration.
-
-I specialize in building scalable internal libraries and have a passion for teaching, having delivered university-level Information Security courses for over 2 years and hosted internal tech talks.
+10+ years in **FinTech/IoT**. Build end-to-end features from UI to backend: ASP.NET Core, EF Core, 
+RabbitMQ/MQTT/Azure Service Bus, Kubernetes/Azure, CI/CD. Improved performance and reliability: cut 
+critical query time by **~80%**, reduced API failures from **7%** to **2.6%**, decreased production alerts by **13.9%**. 2 
+years of team lead experience, mentoring and hiring. 
 
 ---
 
